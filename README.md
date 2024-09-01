@@ -17,3 +17,7 @@ make clean
 ```
 
 能删除生成的 .o，.out文件
+
+### 进阶
+
+再makefile的基础上再补充完成cmakelist
