@@ -1,6 +1,6 @@
 # 任务1
 
-对compile_process/demo.c文件尝试进行**预处理，编译，汇编，链接**步骤，并将每一步的结果保存
+对compile_process/demo.c文件尝试进行**预处理，编译，汇编，链接**步骤，查看每一个步骤对应的输出文件（理解不同步骤的作用），并将每一步的结果保存
 
 # 任务2
 
@@ -20,4 +20,4 @@ make clean
 
 ### 进阶
 
-再makefile的基础上再补充完成cmakelist
+在makefile的基础上再补充完成cmakelist
